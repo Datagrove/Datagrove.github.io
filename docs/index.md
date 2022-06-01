@@ -2,7 +2,9 @@
 
 # New York State Required Courses for Homeschooling
 
-|<div class="table-col-one" style="width: 200px"><h3>Grades 1-6</h3></div>|<div class="table-col-two" style="width: 200px"><h3>Grades 7 and 8</h3></div>|<div class="table-col-three" style="width: 200px"><h3>Grades 9-12</h3></div>|
+<!-- |<div class="table-col-one" style="width: 200px"><h3>Grades 1-6</h3></div>|<div class="table-col-two" style="width: 200px"><h3>Grades 7 and 8</h3></div>|<div class="table-col-three" style="width: 200px"><h3>Grades 9-12</h3></div>| -->
+
+|Grades 1-6|Grades 7 and 8|Grades 9-12|
 |:-------------------------------: | :-------------------: | :-------------------: |
 | Arithmetic | English (two units) | English (four units)|
 | Reading | History and Geography (two units) | Social Studies (four units, which will include one unit American History, one-half unit government, one-half unit economics) |
