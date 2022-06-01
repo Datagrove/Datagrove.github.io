@@ -4,7 +4,7 @@
 
 <!-- |<div class="table-col-one" style="width: 200px"><h3>Grades 1-6</h3></div>|<div class="table-col-two" style="width: 200px"><h3>Grades 7 and 8</h3></div>|<div class="table-col-three" style="width: 200px"><h3>Grades 9-12</h3></div>| -->
 
-|Grades 1-6|Grades 7 and 8|Grades 9-12|
+|Grades 1-6|&nbsp; Grades 7 and 8 &nbsp;|Grades 9-12|
 |:-------------------------------: | :-------------------: | :-------------------: |
 | Arithmetic | English (two units) | English (four units)|
 | Reading | History and Geography (two units) | Social Studies (four units, which will include one unit American History, one-half unit government, one-half unit economics) |
@@ -12,8 +12,8 @@
 | Writing| Mathematics (two units) | Mathematics (two units)|
 | English Language | Physical Education (on a regular basis) | Physical Education (two units) |
 | Geography | Health Education (on a regular basis) | Health Education (one-half unit) |
-| US History | Art (one half unit) | Art and/or Music (one unit) |
-| Science | Music (one half unit) | Electives (three units) |
+| US History | Art (one-half unit) | Art and/or Music (one unit) |
+| Science | Music (one-half unit) | Electives (three units) |
 | Health Education | Practical Arts (on a regular basis) |  |
 | Music |LIbrary Skills (on a regular basis) |  |
 | Visual Arts |   |  |
