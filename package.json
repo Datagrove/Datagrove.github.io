@@ -1,0 +1,25 @@
+{
+  "name": "datagrove.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Datagrove/Datagrove.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Datagrove/Datagrove.github.io/issues"
+  },
+  "homepage": "https://github.com/Datagrove/Datagrove.github.io#readme",
+  "dependencies": {
+    "vitepress": "^1.0.0-alpha.1"
+  }
+}
