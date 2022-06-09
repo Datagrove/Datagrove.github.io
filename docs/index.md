@@ -15,9 +15,21 @@
 | US History | Art (one-half unit) | Art and/or Music (one unit) |
 | Science | Music (one-half unit) | Electives (three units) |
 | Health Education | Practical Arts (on a regular basis) |  |
-| Music |LIbrary Skills (on a regular basis) |  |
+| Music |Library Skills (on a regular basis) |  |
 | Visual Arts |   |  |
 | Physical Education |   |  |
 | Bilingual education and/or English as a second language, as needed |  | |
+| The following courses shall be taught at least once during the first eight grades: United States history, New York State history, and the Constitutions of the United States and New York State. | |
 
+<br>
+
+### Education Law, sections 801, 804, 806 and 808, also require the following subjects to be covered during grades kindergarten through 12:
+- patriotism and citizenship;
+- health education regarding alcohol, drug and tobacco misuse;
+- highway safety and traffic regulations, including bicycle safety; and
+- fire and arson prevention and safety.
+
+_Retrieved from the [New York State Education Department](http://www.nysed.gov/curriculum-instruction/10010-home-instruction#IHIPContent)_
+
+<br>
 </div>
