@@ -27,15 +27,14 @@
   - New York State history,
   - and the Constitutions of the United States and New York State.
   
-<br>
-
 ### Education Law, sections 801, 804, 806 and 808, also require the following subjects to be covered during grades kindergarten through 12:
 - patriotism and citizenship;
 - health education regarding alcohol, drug and tobacco misuse;
 - highway safety and traffic regulations, including bicycle safety; and
 - fire and arson prevention and safety.
+  
+<br>
 
 _Retrieved from the [New York State Education Department](http://www.nysed.gov/curriculum-instruction/10010-home-instruction#IHIPContent)_
 
-<br>
 </div>
