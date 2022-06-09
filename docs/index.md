@@ -19,8 +19,14 @@
 | Visual Arts |   |  |
 | Physical Education |   |  |
 | Bilingual education and/or English as a second language, as needed |  | |
-| The following courses shall be taught at least once during the first eight grades: United States history, New York State history, and the Constitutions of the United States and New York State. | |
 
+<br>
+  
+### The following courses shall be taught at least once during the first eight grades:
+  - United States history,
+  - New York State history,
+  - and the Constitutions of the United States and New York State.
+  
 <br>
 
 ### Education Law, sections 801, 804, 806 and 808, also require the following subjects to be covered during grades kindergarten through 12:
